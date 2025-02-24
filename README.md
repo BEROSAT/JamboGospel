@@ -10,6 +10,14 @@
   },
   "1":{
   "id": "2",
+  "name": "BT GOSPEL",
+  "description": "1102",
+  "live_url": "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgyNjYzNDNf/BTgospel.png",
+  "categorie": "GOSPEL"
+  },
+  "2":{
+  "id": "3",
   "name": "AFRICA GOSPEL",
   "description": "1102",
   "live_url": "https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8",
