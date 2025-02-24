@@ -10,7 +10,7 @@
   },
   "1":{
   "id": "2",
-  "name": "BT GOSPEL",
+  "name": "BET GOSPEL",
   "description": "1102",
   "live_url": "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNjYzNDNf/BTgospel.png",
