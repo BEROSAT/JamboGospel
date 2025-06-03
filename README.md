@@ -23,5 +23,13 @@
   "live_url": "https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzEyMTUwNDRf/africagospel.jpg",
   "categorie": "GOSPEL"
-  }
+  },
+  "3":{
+  "id": "4",
+  "name": "TRACE GOSPEL",
+  "description": "1103",
+  "live_url": "http://145.239.5.177/206/index.m3u8",
+  "thumbnail": "https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png",
+  "categorie": "GOSPEL"
+  } 
 }
