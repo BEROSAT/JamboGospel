@@ -20,10 +20,10 @@
   },
   "2":{
   "id": "3",
-  "name": "AFRICA GOSPEL",
+  "name": "MY GOSPEL TV",
     "number":"1103",
   "description": "1102",
-  "live_url": "https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8",
+  "live_url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzEyMTUwNDRf/africagospel.jpg",
   "categorie": "GOSPEL"
   },
