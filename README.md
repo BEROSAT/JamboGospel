@@ -11,11 +11,11 @@
   },
   "1":{
   "id": "2",
-  "name": "BET GOSPEL",
+  "name": "4 GOSPEL tv",
     "number":"1102",
-  "description": "BET Gospel TV, est une chaine chrétienne international avec la musique gospel universel",
-  "live_url": "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgyNjYzNDNf/BTgospel.png",
+  "description": "4 Gospel is your 24/7 destination for soul-stirring gospel music, faith-based entertainment, and inspirational content from across Africa and beyond. With a diverse lineup of gospel concerts, sermons, spiritual talk shows, and uplifting documentaries",
+  "live_url": "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/981650c9-fa6d-4e11-b015-fb2fdc54f699/source/index.m3u8",
+  "thumbnail": "https://od.lk/thumb/NDZfOTI2NDc2MDFf",
   "categorie": "GOSPEL"
   },
   "2":{
@@ -32,7 +32,7 @@
   "name": "TRACE GOSPEL",
     "number":"1104",
   "description": "Trace Gospel, la première chaine chrétienne international avec la musique gospel universel",
-  "live_url": "http://145.239.5.177/206/index.m3u8",
+  "live_url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png",
   "categorie": "GOSPEL"
   },
@@ -44,5 +44,13 @@
   "live_url": "https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODUxNTg4NjZf/caribbeanGospel.png",
   "categorie": "GOSPEL"
-  } 
+  },
+  "id":"6",
+  "name":"GOSPEL CHANNEL",
+  "number":"1101",
+  "description":"GOSPEL CHANNEL est une chaine chrétienne international avec la musique gospel universel",
+  "live_url":"https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
+  "categorie":"GOSPEL"
+  }
 }
